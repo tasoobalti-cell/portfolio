@@ -689,5 +689,21 @@ img.img-error { display: none; }
     padding: 40px 24px; 
     max-width: 1200px; 
     margin: 0 auto; 
+}   
+   /* Gap Fix Final */
+#education, .education {
+  padding-bottom: 10px !important;
+  margin-bottom: 0 !important;
+  min-height: auto !important;
 }
+
+.section-alt {
+  background: #ffffff !important;
+  padding-top: 10px !important;
+  margin-top: 0 !important;
 }
+
+section {
+  min-height: auto !important;
+}
+

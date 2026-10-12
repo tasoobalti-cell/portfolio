@@ -690,5 +690,9 @@ img.img-error { display: none; }
   #hamburger { display: flex; }
 
   .skills-grid { grid-template-columns: 1fr; }
-  .section { padding: 40px 20px; }
+ .section { 
+    padding: 100px 24px; 
+    max-width: 1200px; 
+    margin: 0 auto; 
+}
 }

@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   /* ---------- TYPING ANIMATION ---------- */
   // EDIT: change these words to update the rotating hero text
-  const words = ['Graphic Designer', 'Video Editor', 'Meta Ads Expert'];
+  const words = ['AI Ads Video Editing', 'Co-Founder of 5ByteSolution', 'Meta Ads Expert'];
   const typedEl = document.getElementById('typedText');
   let wordIndex = 0, charIndex = 0, deleting = false;
 
